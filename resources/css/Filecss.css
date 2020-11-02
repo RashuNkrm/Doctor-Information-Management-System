@@ -1,0 +1,33 @@
+
+
+.container{
+	margin-top: 90px;
+	margin-left: 30%;
+
+}
+img{
+	margin-left: 20%;
+	margin-bottom:-10px;
+}
+
+
+#password{
+	padding-bottom: 25px;
+	padding-top: 25px;
+	width: 400px;
+
+
+}
+
+#email{
+	padding-bottom: 25px;
+	padding-top: 25px;
+	width: 400px;
+
+	}
+button{
+	width:400px;
+}
+input{
+	background-image: url("icon.png");
+}
